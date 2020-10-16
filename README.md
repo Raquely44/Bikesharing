@@ -49,7 +49,9 @@ Similarly the last map shows the end locations of each rental. The larger the ci
 <img src="Resources/End_location.png" width=500>
 
 ## Summary:
-There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)
+Overall, we can see that bike rentals in August of 2019 were quite popular with over 2 million rentals in one month and the majority of the rentals occurring during the weekday around normal work and school commute times. This is an important distinction because this need for transportation during predictable times translates to predictable usage and revenue.
+It is also interesting to note that the user demographic is largely subscriber based, meaning loyal customers. There is a substantial amount of one time users which provides the opportunity for them to convert to subscribers. Also, the demographic largely are male users, which provides a better understanding of target user types for marketing and product features in the future. Lastly, we now know a couple key selling points for our users: they live and work in the same downtown manhattan area, and their income is high for the area.</br>
+
 
 For future analysis I would suggest drilling down into the cost of each trip, from here we can see a full picture of what contributes to checkout duration trends. I would display this similar to the trip duration graph but replace the number of bikes rented with the amount paid.
 I would also suggest looking into other modes of transportation routes and stations to see how that affects the usage of bike rentals each day of the week. I would compare this in a heat map and use the top two competitors instead of looking at genders.
