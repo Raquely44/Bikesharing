@@ -1,4 +1,4 @@
-# Bikesharing. 
+# Bikesharing 
 
 [NYC CitiBike business proposal](https://public.tableau.com/profile/raquel1027#!/vizhome/bike_challenge/Story1?publish=yes)
 ## Overview of the statistical analysis:
