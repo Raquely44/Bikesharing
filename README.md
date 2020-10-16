@@ -30,7 +30,7 @@ This graph is similar to the first except it also shows gender information colle
 
 <b>Trips by Weekday per Hour:</b>
 This graph shows the total number of trips by weekday and hour. The more trips that are accounted for the deeper the color is shown on the orange-red color spectrum with red being higher count and yellow being lower count. We can see that the highest demand times are the morning hours on weekdays from 6am till 9am and in the evening hours on weekdays between 5 pm and 7 pm. Whereas the weekend high demand hours are middle of the day between 10 am and 6 pm.</br>
-<img src="heat.png" width=500>
+<img src="Resources/heat.png" width=500>
 
 <b>Trip by Gender and Weekday:</b>
 Similar to the last graph we see the high demand times by gender during the days of the week and by hour of the day. The colors represent the say data as well. We can see the same trends however we can also see that males are renting more at the high demand times versus females and others. It is also interesting to note that Thursday is the most popular day for bike rentals among male and females whereas others most popular days are Saturday and Sunday.</br>
